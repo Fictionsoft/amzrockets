@@ -1,0 +1,6 @@
+C:\xampp\htdocs\amzrockets\app\webroot\css\nivo-slider\nivo-slider.css
+C:\xampp\htdocs\amzrockets\app\webroot\css\style.css
+C:\xampp\htdocs\amzrockets\app\View\Elements\footer.ctp
+C:\xampp\htdocs\amzrockets\app\View\Elements\header.ctp
+asksdgjdfgh98080ikg;
+	
